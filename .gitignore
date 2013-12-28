@@ -1,0 +1,7 @@
+# Ignore objects
+*.o
+box
+mkprofile
+syscall-table.h
+profiles/java
+profiles/javac
